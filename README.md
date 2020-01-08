@@ -9,6 +9,8 @@
 | Greedy Algorithms         | [Minimum Absolute Difference in an Array] | [Minimum Absolute Difference in an Array.js] | Easy       |
 | Sorting                   |           [Sorting: Comparator]           |              [Mark and Toys.js]              | Easy       |
 | Sorting                   |           [Sorting: Comparator]           |           [Sorting: Comparator.js]           | Medium     |
+| String Manipulation       |         [Alternating Characters]          |         [Alternating Characters.js]          | Easy       |
+| Warm-up Challenges        |              [Sock Merchant]              |              [Sock Merchant.js]              | Easy       |
 
 [minimum swaps 2]: https://www.hackerrank.com/challenges/minimum-swaps-2/problem
 [minimum swaps 2.js]: ./InterviewPreparationKit/Arrays/MinimumSwaps2.js
@@ -20,3 +22,7 @@
 [mark and toys.js]: ./InterviewPreparationKit/Sorting/MarkAndToys.js
 [sorting: comparator]: https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem
 [sorting: comparator.js]: ./InterviewPreparationKit/Sorting/Sorting:Comparator.js
+[alternating characters]: https://www.hackerrank.com/challenges/alternating-characters/problem
+[alternating characters.js]: ./InterviewPreparationKit/StringManipulation/AlternatingCharacters.js
+[sock merchant]: https://www.hackerrank.com/challenges/sock-merchant/problem
+[sock merchant.js]: ./InterviewPreparationKit/Warm-upChallenges/SockMerchant.js
