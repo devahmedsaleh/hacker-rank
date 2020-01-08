@@ -14,9 +14,10 @@
 
 ## Problem Solving
 
-| Category   | Sub-Category   |     Challenge     |       Solution       | Difficulty |
-| ---------- | -------------- | :---------------: | :------------------: | :--------- |
-| Algorithms | Implementation | [Angry Professor] | [Angry Professor.js] | Easy       |
+| Category   | Sub-Category   |     Challenge      |       Solution        | Difficulty |
+| ---------- | -------------- | :----------------: | :-------------------: | :--------- |
+| Algorithms | Implementation | [Angry Professor]  | [Angry Professor.js]  | Easy       |
+| Algorithms | Implementation | [Apple and Orange] | [Apple and Orange.js] | Easy       |
 
 [minimum swaps 2]: https://www.hackerrank.com/challenges/minimum-swaps-2/problem
 [minimum swaps 2.js]: ./InterviewPreparationKit/Arrays/MinimumSwaps2.js
@@ -34,3 +35,5 @@
 [sock merchant.js]: ./InterviewPreparationKit/Warm-upChallenges/SockMerchant.js
 [angry professor]: https://www.hackerrank.com/challenges/angry-professor/problem
 [angry professor.js]: ./ProblemSolving/Algorithms/Implementation/AngryProfessor.js
+[Apple and Orange]: https://www.hackerrank.com/challenges/apple-and-orange/problem
+[Apple and Orange.js]: ./ProblemSolving/Algorithms/Implementation/AppleAndOrange.js
