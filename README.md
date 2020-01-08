@@ -12,6 +12,12 @@
 | String Manipulation       |         [Alternating Characters]          |         [Alternating Characters.js]          | Easy       |
 | Warm-up Challenges        |              [Sock Merchant]              |              [Sock Merchant.js]              | Easy       |
 
+## Problem Solving
+
+| Category   | Sub-Category   |     Challenge     |       Solution       | Difficulty |
+| ---------- | -------------- | :---------------: | :------------------: | :--------- |
+| Algorithms | Implementation | [Angry Professor] | [Angry Professor.js] | Easy       |
+
 [minimum swaps 2]: https://www.hackerrank.com/challenges/minimum-swaps-2/problem
 [minimum swaps 2.js]: ./InterviewPreparationKit/Arrays/MinimumSwaps2.js
 [hash tables: ransom note]: https://www.hackerrank.com/challenges/ctci-ransom-note/problem
@@ -26,3 +32,5 @@
 [alternating characters.js]: ./InterviewPreparationKit/StringManipulation/AlternatingCharacters.js
 [sock merchant]: https://www.hackerrank.com/challenges/sock-merchant/problem
 [sock merchant.js]: ./InterviewPreparationKit/Warm-upChallenges/SockMerchant.js
+[angry professor]: https://www.hackerrank.com/challenges/angry-professor/problem
+[angry professor.js]: ./ProblemSolving/Algorithms/Implementation/AngryProfessor.js
