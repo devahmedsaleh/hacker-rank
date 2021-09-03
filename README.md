@@ -43,4 +43,4 @@
 [Apple and Orange]: https://www.hackerrank.com/challenges/apple-and-orange/problem
 [Apple and Orange.js]: ./ProblemSolving/Algorithms/Implementation/AppleAndOrange.js
 [Factorial]: https://www.hackerrank.com/challenges/30-recursion/problem
-[Factorial.js]: ./30DaysOfCode/Day9:Recursion3/factorial.js
+[Factorial.js]: ./30DaysOfCode/Day9Recursion3/factorial.js
