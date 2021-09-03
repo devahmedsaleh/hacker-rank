@@ -19,6 +19,11 @@
 | Algorithms | Implementation | [Angry Professor]  | [Angry Professor.js]  | Easy       |
 | Algorithms | Implementation | [Apple and Orange] | [Apple and Orange.js] | Easy       |
 
+## 30 Days of Code
+| Category        | Sub-Category   |     Challenge      |       Solution        | Difficulty |
+| ----------------| -------------- | :----------------: | :-------------------: | :--------- |
+| 30 Days of Code | Recursion      |    [Factorial]     |    [Factorial.js]     | Easy       |
+
 [minimum swaps 2]: https://www.hackerrank.com/challenges/minimum-swaps-2/problem
 [minimum swaps 2.js]: ./InterviewPreparationKit/Arrays/MinimumSwaps2.js
 [hash tables: ransom note]: https://www.hackerrank.com/challenges/ctci-ransom-note/problem
@@ -37,3 +42,5 @@
 [angry professor.js]: ./ProblemSolving/Algorithms/Implementation/AngryProfessor.js
 [Apple and Orange]: https://www.hackerrank.com/challenges/apple-and-orange/problem
 [Apple and Orange.js]: ./ProblemSolving/Algorithms/Implementation/AppleAndOrange.js
+[Factorial]: https://www.hackerrank.com/challenges/30-recursion/problem
+[Factorial.js]: ./30DaysOfCode/Day9:Recursion3/factorial.js
